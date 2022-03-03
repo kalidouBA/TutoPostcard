@@ -1,0 +1,45 @@
+---
+title: "Kalidou BA"
+image: "kalidouBA.jpg"
+links:
+  - label: Resume
+    url: "https://linkedin.com/"
+  - label: Blog
+    url: "https://medium.com/"
+  - label: SoundCloud
+    url: "https://soundcloud.com/"
+  - label: Twitter
+    url: "https://twitter.com/"
+output:
+  postcards::solana
+---
+ 
+## Bio
+
+Issu d’un double cursus en *Mathématiques appliquées* et
+en *Intelligence artificielle*, je suis aujourd’hui à la
+recherche d’une thèse dans ces secteurs-ci. Passionné par
+les *sciences des données* et par le *numérique*, j’ai pu
+profiter de mes expériences professionnelles passées pour
+me spécialiser et acquérir des compétences
+complémentaires dans le traitement de données massives
+et dans le développement d’applications informatiques.
+
+## Education
+
+
+## Experience
+
+**INSERM, Université de Bordeaux, Bordeaux** | Méthodes statistiques pour l’analyse différentielle de données RNA-seq en cellule
+unique appliquées en immunologie.
+
+**Floralis, AGEIS, Université de Grenoble, Grenoble** | Projet de Deep-Covid 2020 | Développement d’application mobile de
+recensement des bancs dans l’espace public | Développement d’application de traitement de données avec les méthodes de machine
+learning.
+
+**Orange Labs, Meylan** | Développement de module (Exploitation d’API, machine learning, ...) permettant
+l’enrichissement et l’exploitation d’algorithme d’analyse du comportement humain.
+
+**Mylocalphone, Paris** | Développer des applications Android à destination des hôtels pour leurs clients pour avoir accès à un compte Netflix prépayé, aux informations privilégiées sur l'hôtel, à de nombreuses applications utiles pour visiter la
+ville. | 2019
+
